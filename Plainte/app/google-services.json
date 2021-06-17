@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "776629790112",
+    "project_id": "rajesh-e4252",
+    "storage_bucket": "rajesh-e4252.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:776629790112:android:7cc1aca5861f53433cb0c5",
+        "android_client_info": {
+          "package_name": "com.example.rajesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "776629790112-dt6tm2gou4j1c8j6uboj2kcb1qgrptuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rwlLH105WvR123DWSoh7PilTAq5ZkGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "776629790112-dt6tm2gou4j1c8j6uboj2kcb1qgrptuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
